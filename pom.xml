@@ -12,6 +12,7 @@
 	<artifactId>spring_boot_avengers_h2</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>spring_boot_avengers_h2</name>
+	<packaging>war</packaging>
 	<description>Demo project for Spring Boot Hello World</description>
 
 	<properties>
